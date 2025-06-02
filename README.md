@@ -61,6 +61,9 @@ Once launched, the agent will beacon every `sleep` seconds, execute abilities, a
 
 ---
 
+## TODO 
+- Windows Code Execution
+
 ## License
 
 This project is released under the MIT License.  See `LICENSE` for full text.
